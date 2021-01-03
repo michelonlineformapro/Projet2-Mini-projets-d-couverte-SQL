@@ -1,0 +1,34 @@
+html{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #F2E8DC;
+    font-family: 'Anton', sans-serif;
+}
+
+/***************NAVBAR******************/
+#menu{
+    background-color: #F2BF27;
+}
+.active{
+    background-color: #A6121F;
+    color: white;
+}
+/*********************LES TABLES************************/
+tr th{
+    color: #e87700!important;
+}
+
+tr td{
+    color: #4398a5!important;
+}
+
+/******************LES FORMULAIRES*********************/
+.form-container{
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+}
